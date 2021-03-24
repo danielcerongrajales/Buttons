@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/danielcerongrajales/Buttons/compare/v1.0.0...v1.1.0) (2021-03-24)
+
+
+### Features
+
+* correction of badges and title inside the  README file ([9a89ef9](https://github.com/danielcerongrajales/Buttons/commit/9a89ef9f9315eeff031e7ae395ebac981f85cb93))
+
 ## 1.0.0 (2021-03-23)
 
 
