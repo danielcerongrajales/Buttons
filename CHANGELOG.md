@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/danielcerongrajales/Buttons/compare/v1.1.0...v1.2.0) (2021-04-10)
+
+
+### Features
+
+*  first initial version android project ([471f1b7](https://github.com/danielcerongrajales/Buttons/commit/471f1b70ba35c8c25140fedc9132a75ce66dc632))
+
 ## [1.1.0](https://github.com/danielcerongrajales/Buttons/compare/v1.0.0...v1.1.0) (2021-03-24)
 
 
